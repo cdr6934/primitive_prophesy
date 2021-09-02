@@ -2,6 +2,11 @@ baseURL: http://example.org/
 languageCode: en-us
 theme: papermod
 params: 
-  ShowShareButtons: true 
-  defaultTheme: auto 
-title: Primitive Prophesy
+  profileMode:
+        enabled: true
+        title: "Primitive Prophesy" # optional default will be site title
+        subtitle: "The Collection - Coming Soon"
+        imageUrl: "https://ipfs.io/ipfs/QmUesQLLpYKRThuq6NkanU4QTfmS5S2PFEDoBVLRgxGpq4" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 800 # custom size
+        imageHeight: 800 # custom size
