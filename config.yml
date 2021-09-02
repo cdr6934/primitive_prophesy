@@ -1,0 +1,7 @@
+baseURL: http://example.org/
+languageCode: en-us
+theme: papermod
+params: 
+  ShowShareButtons: true 
+  defaultTheme: auto 
+title: Primitive Prophesy
